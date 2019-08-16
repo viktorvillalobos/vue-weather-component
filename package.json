@@ -1,11 +1,37 @@
 {
   "name": "vue-weather-component",
   "version": "1.0.0",
+  "description": "Vue weather component based on darksky widgets and api.",
   "private": true,
   "main": "src/components/vue-weather-component",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --target lib --name vue-weather-component.vue"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShinZ6/vue-weather-component.git"
+  },
+  "keywords": [
+    "weather",
+    "forecast",
+    "darksky",
+    "darksky-vue",
+    "vue-weather",
+    "vue-weather-widget",
+    "vue-weather-component",
+    "vuejs-weather",
+    "vuejs-weather-widget",
+    "vuejs-weather-component",
+    "vue",
+    "vuejs",
+    "vue-plugin",
+    "vue-component"
+  ],
+  "author": "ShinZ6",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShinZ6/vue-weather-component/issues"
   },
   "dependencies": {
     "core-js": "^2.6.5",
