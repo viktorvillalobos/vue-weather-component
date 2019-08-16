@@ -1,13 +1,14 @@
 # Vue Weather Component
 Vue weather component based on darksky widgets and api.
 
-[![Preview](https://raw.githubusercontent.com/ShinZ6/vue-weather-component/master/public/preview.png)](https://ShinZ6.github.io/vue-weather-widget/)
+![Preview](https://raw.githubusercontent.com/ShinZ6/vue-weather-component/master/public/preview.png)
 
 ## Project setup
 ```
 npm install
 ```
-##Usage
+
+## Usage
 
 ### VueJS single file component
 
