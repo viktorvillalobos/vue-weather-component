@@ -1,0 +1,19 @@
+{
+  "name": "vue-weather-component",
+  "version": "1.0.0",
+  "private": true,
+  "main": "src/components/vue-weather-component",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build --target lib --name vue-weather-component.vue"
+  },
+  "dependencies": {
+    "core-js": "^2.6.5",
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.10.0",
+    "@vue/cli-service": "^3.10.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
